@@ -11,3 +11,5 @@ The objective can be broken down into the following detailed components:
 
 LEARNING:
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
+![1719366571452](https://github.com/user-attachments/assets/8fb6fd7e-2441-45d6-9190-c4c26b2392f4)
+![1719376452391](https://github.com/user-attachments/assets/79fc59da-37d9-4d0d-ad53-e9e6c695b563)
